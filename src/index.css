@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.heading {
+  color: green;
+}
+
+.food-image {
+  width: 100px;
+  height: 100px;
+}
